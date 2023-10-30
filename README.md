@@ -14,5 +14,9 @@ As a passionate cybersecurity enthusiast, I approach the Petronas Inter-Universi
 
 Please note that this repository does not include all the challenges from the competition, but a sub-set of those that I have downloaded or solved. Some challenges, such as web challenges that provided external weblinks, are not included as they are no longer be accessible.
 
+## Images
+Some of the images during the event are posted in Images. Check it out if your are interested. 
 
+
+![Petronas Day 1 Score](<Images/Petronas Day 1.png>)
 
